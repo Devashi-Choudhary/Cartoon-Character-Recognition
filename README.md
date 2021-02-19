@@ -24,3 +24,22 @@ For recognizing cartoon character in images, run the following command :
 
 For detecting face mask in real-time video stream, run the following command :
 > `python Cartoon_Character_Recognition_in Video.py --path Data/video.mp4 --model Model/model.h5`
+
+
+# Results
+
+1. Accuracy/Loss training curve plot.
+
+![Accuracy and Loss](https://github.com/Devashi-Choudhary/Cartoon-Character-Recognition/blob/main/Results/download.png)
+
+
+2. Cartoon Character Recognition in Image.
+
+![predicted](https://github.com/Devashi-Choudhary/Cartoon-Character-Recognition/blob/main/Results/Output_test.JPG)
+
+3. Cartoon Character Recognition in Video.
+
+
+
+**NOTE :** For more information about implementation details of real-time creativity, please go through [Recognizing Real-Time Creativity of User using Deep Learning
+](https://medium.com/@Devashi_Choudhary/recognizing-real-time-creativity-of-user-using-deep-learning-786cbc5cd292)
