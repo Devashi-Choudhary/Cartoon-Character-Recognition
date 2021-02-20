@@ -4,10 +4,6 @@ Cartoon Character one of the people or animals in an animated film like Mickey M
 # Dependencies
 Deep Learning based Cartoon Character Recognition uses [OpenCV](https://opencv.org/) (opencv==4.2.0) and Python (python==3.7). The model Convolution Neural Network(CNN) uses [Keras](https://keras.io/) (keras==2.3.1) on [Tensorflow](https://www.tensorflow.org/) (tensorflow>=1.15.2). Also, imutils==0.5.3, numpy==1.18.2, matplotlib==3.2.1, argparse==1.1 are also used.
 
-# Note 
-I have created my own Dataset. I have collected the Data from Chrome and various sites like [Disney](https://www.disneyclips.com/images/donaldduck9.html). As of now, only 4 categories of cartoon characters (Mickey-Mouse, Donald-Duck, Minions, Pooh) are considered. You can create your own dataset and include more categories and save the data in `.npy` format. If you want to use my Dataset and pretrained model, it will come with little cost as it requires so much time to collect tha data and all preprocessing. Please drop a mail on devashi882@gmail.com for accessing the data and pretrained model.
-
-
 # How to execute code:
 
 1. You will first have to download the repository and then extract the contents into a folder.
@@ -43,3 +39,7 @@ For detecting face mask in real-time video stream, run the following command :
 
 **NOTE :** For more information about implementation details of real-time creativity, please go through [Recognizing Real-Time Creativity of User using Deep Learning
 ](https://medium.com/@Devashi_Choudhary/recognizing-real-time-creativity-of-user-using-deep-learning-786cbc5cd292)
+
+
+# Note 
+I have created my own Dataset. I have collected the Data from Chrome and various sites like [Disney](https://www.disneyclips.com/images/donaldduck9.html). As of now, only 4 categories of cartoon characters (Mickey-Mouse, Donald-Duck, Minions, Pooh) are considered. You can create your own dataset and include more categories and save the data in `.npy` format. If you want to use my Dataset and pretrained model, it will come with little cost as it requires so much time to collect tha data and all preprocessing. Please drop a mail on devashi882@gmail.com for accessing the data and pretrained model.
