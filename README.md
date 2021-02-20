@@ -35,10 +35,11 @@ For detecting face mask in real-time video stream, run the following command :
 
 3. Cartoon Character Recognition in Video.
 
+[![](http://img.youtube.com/vi/ND6HkLd-vTs/mqdefault.jpg)](https://www.youtube.com/watch?v=ND6HkLd-vTs)
 
 
-**NOTE :** For more information about implementation details of real-time creativity, please go through [Recognizing Real-Time Creativity of User using Deep Learning
-](https://medium.com/@Devashi_Choudhary/recognizing-real-time-creativity-of-user-using-deep-learning-786cbc5cd292)
+**NOTE :** For more information about implementation details of Cartoon Character Recognition, please go through [Cartoon Character Recognition using Deep Learning
+](https://devashi-choudhary.medium.com/cartoon-character-recognition-using-deep-learning-c1ece3dbd94c)
 
 
 # Note 
